@@ -1,0 +1,14 @@
+/* Google Fonts global imports */
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+
+/* Reset all padding/margin values on all elements.*/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.globals {
+  font-family: 'Quicksand', 'Playfair Display', sans-serif;
+  font-size: 16px;
+}
