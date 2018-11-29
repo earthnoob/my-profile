@@ -13,6 +13,8 @@ export default function Aboutme() {
   )
 }
 
+
+
 let styles = {
   flexWrap: 'wrap',
 };
